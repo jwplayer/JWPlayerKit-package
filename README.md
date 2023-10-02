@@ -37,7 +37,10 @@ pod 'JWPlayerKit', '~> Version Number'
 
 Execute `pod install` to install the new `JWPlayerKit` dependency.
 
-### Using Swift Package Manager
+For up to date information and the API reference,see the [developer 
+guide](https://docs.jwplayer.com/players/docs/ios-add-the-sdk#cocoapods).
+
+### Using [Swift Package Manager](https://www.swift.org/package-manager/)
 Open Xcode 14+, navigate to your Project file and specify it in `Project > 
 Package Dependencies` using the following URL:
 
@@ -45,8 +48,8 @@ Package Dependencies` using the following URL:
 https://github.com/jwplayer/JWPlayerKit-package.git
 ```
 
-For any additional information and API reference, see the [developer 
-guide](http://developer.jwplayer.com/sdk/ios/docs/developer-guide/intro/getting-started/).
+For up to date information and the API reference, see the [developer 
+guide](https://docs.jwplayer.com/players/docs/ios-add-the-sdk#swift-package-manager).
 
 Best Practice Apps
 ==================
