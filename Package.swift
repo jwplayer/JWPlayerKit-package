@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "JWPlayerKit",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v14)
     ],
     products: [
         .library(
