@@ -2,8 +2,8 @@
 JWPlayerKit for iOS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Document version: 02/24/2026
-SDK version: 4.25.2
+Document version: 04/21/2026
+SDK version: 4.26.0
 
 Getting support and submitting feedback
 =======================================
