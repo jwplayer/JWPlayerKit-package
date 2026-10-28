@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "JWPlayerKit",
-            url: "https://ssl.p.jwpcdn.com/sdks/ios/jwplayer-ios-sdk-4.28.1_1.zip",
-            checksum: "016177a9fcdc8d85436219bc1e7ac53fe279c57321f6320307d591f371554ec0"
+            url: "https://ssl.p.jwpcdn.com/sdks/ios/jwplayer-ios-sdk-4.28.2_1.zip",
+            checksum: "a1d46ac96d13b943dea418c15ae49e5729aec9371701418d9713624fa8c5ad1e"
         ),
     ]
 )
